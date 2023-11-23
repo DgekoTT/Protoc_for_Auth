@@ -1,4 +1,4 @@
-module github.com/DgekoTT/Protoc_for_Auth.git
+module github.com/DgekoTT/Protoc_for_Auth
 
 go 1.20
 
